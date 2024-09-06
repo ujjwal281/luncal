@@ -1,0 +1,14 @@
+#gallerybutton{
+    box-shadow: rgb(0, 0, 0) 4px 4px 4px 0px , rgba(255, 255, 255, 0.5) 1px 1px 4px 1px inset ,  rgba(255, 255, 255, 0.5) 1px 0px 4px 1px ;
+}
+
+#buttonShadow{
+    box-shadow:  rgba(255, 255, 255, 0.5) -1px -1px 7px -2px , rgba(1, 1, 0, 0.5) 0px 0px 7px -2px ;
+    background: linear-gradient(139.14deg, #303439 12.4%, #161718 94.96%);
+
+}
+
+#navbar{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
